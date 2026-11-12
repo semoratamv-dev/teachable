@@ -1,2 +1,0 @@
-# teachable
-ejercicio de teachable
